@@ -1,0 +1,9 @@
+{
+	"name": "POCBackupADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec5e9ff8-44e5-45e7-bc8b-7a0a241d93b6",
+		"tenantId": "45f95e3a-b725-490d-83f1-a8c18a487a7a"
+	}
+}
